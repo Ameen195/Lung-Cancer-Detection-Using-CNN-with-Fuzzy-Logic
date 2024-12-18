@@ -16,13 +16,13 @@ In medical imaging, accurately classifying lung cancer subtypes is critical for 
 
 The dataset used in this project consists of lung cancer images categorized into four classes:
 
--Normal
+1.Normal
 
--Adenocarcinoma
+2.Adenocarcinoma
 
--Large Cell Carcinoma
+3.Large Cell Carcinoma
 
--Squamous Cell Carcinoma
+4.Squamous Cell Carcinoma
 
 Dataset from Kaggle which includes Chest CT scan images - https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
