@@ -7,7 +7,9 @@ In medical imaging, accurately classifying lung cancer subtypes is critical for 
 ## Intoduction
 
 – Trained an Xception-based CNN to classify lung cancer images with 93%+ accuracy, using 20 epochs and optimized with EarlyStopping and ReduceLROnPlateau for enhanced performance.
+
 – Built and deployed an end-to-end deep learning pipeline, including data augmentation, model saving, and visualization, showcasing results with matplotlib for clear accuracy/loss analysis.
+
 – Integrated fuzzy logic preprocessing to analyze image attributes (e.g., texture, size), boosting feature quality and decision-making for cancer detection.
 
 ## Dataset
@@ -15,8 +17,11 @@ In medical imaging, accurately classifying lung cancer subtypes is critical for 
 The dataset used in this project consists of lung cancer images categorized into four classes:
 
 -Normal
+
 -Adenocarcinoma
+
 -Large Cell Carcinoma
+
 -Squamous Cell Carcinoma
 
 Dataset from Kaggle which includes Chest CT scan images - https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
